@@ -1,0 +1,14 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "simple chat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Nikhil Pokharel",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}
